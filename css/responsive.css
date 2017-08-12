@@ -1,0 +1,17 @@
+@media screen and (max-width: 470px){
+.carousel-caption h1{
+		font-size: 30px;
+	}
+
+.element-item {
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+} 
+@media screen and (max-width: 390px){
+.carousel-caption h1{
+		font-size: 25px;
+	}
+} 
